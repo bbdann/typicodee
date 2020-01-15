@@ -3,31 +3,31 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "ТАовоыа ыаоды оавда ыда ы",
+      "title": "Дизайнер",
       "completed": false
     },
     {
       "userId": 1,
       "id": 2,
-      "title": "ТАовоыа ыаоды оавда ыда ы ыав ",
+      "title": "QA",
       "completed": false
     },
     {
       "userId": 1,
       "id": 3,
-      "title": "ЛОадвылта д",
+      "title": "Junior frontend developer",
       "completed": false
     },
     {
       "userId": 1,
       "id": 4,
-      "title": "ЛДЫвтпд тпдватдпт дватп дт",
+      "title": "Frontend React JS Developer",
       "completed": true
     },
     {
       "userId": 1,
       "id": 5,
-      "title": "жадьпжавжти",
+      "title": "Senior backend developer",
       "completed": false
     }]
 }
