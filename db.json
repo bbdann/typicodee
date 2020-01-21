@@ -29,5 +29,12 @@
       "id": 5,
       "title": "Senior backend developer",
       "completed": false
-    }]
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Senior frontend developer",
+      "completed": true
+    }
+]
 }
